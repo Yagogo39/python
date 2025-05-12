@@ -1,6 +1,6 @@
 import tkinter as tk
 import math
-
+#Calculadora con interfaz de tkinter
 def calculate(operation):
     try:
         if operation == "Suma":
