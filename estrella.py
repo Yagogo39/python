@@ -1,4 +1,5 @@
 import turtle
+#Estrella con usando la libreria turtle
 import colorsys
 t=turtle.Turtle()
 s=turtle.Screen()
